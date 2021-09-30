@@ -6,17 +6,16 @@
 	
 	<!-- tower names and info [shop] -->
 	<name name_id = 'vegetinho'>Vegetinho</name>
-	<info name_id = 'vegetinho'>Mosaic</info>
+	<info name_id = 'vegetinho'>Vegetais e raízes que sofreram mutação, são chamados de vegetinho, os mesmos são maravilhosos (agressivos) e difíceis de lidar! (nesse exato momento há um deles apontando uma arma em minha direção exigindo que eu fale bem deles...)...</info>
 	
 	<name name_id = 'silkhorn'>Silkhorn</name>
-	<info name_id = 'silkhorn'>Torre que atiram projetos que vão e voltam</info>
+	<info name_id = 'silkhorn'>Essas criaturas terrestres e aquáticas adoram defender seu território, ao ver um inimigo, logo lança seus chifres que vão e voltam atingindo o inimigo duas vezes!</info>
 	
 	<name name_id = 'bombirdo'>Bombirdo</name>
-	<info name_id = 'bombirdo'>Bombirdos são torres voadoras nas quais atingem inimigos aéreos</info>
+	<info name_id = 'bombirdo'>Bombirdos são torres voadoras, elas atiram suas emoções exageradas, tão exageradas que até explodem! como para eles é mais fácil se comunicar com os que voam, eles só atingem inimigos aéreos.</info>
 	
 	<name name_id = 'vissca'>Vissca</name>
-	<info name_id = 'vissca'>Vissca é uma torre na qual cospe slime no chão no qual faz com que inimigos terrestres fiquem lentos por alguns segundos</info>
-	
+	<info name_id = 'vissca'>Vissca cospe gosma no chão, para que os inimigos desatentos fiquem lentos ao passar por cima, como eles não enxergam essa poça enorme de vômito? Ou seja lá o que for isso...</info>
 	<!-- tower status -->
 	<status_rotate>graus</status_rotate>
 	<!-- ground towers -->
@@ -55,7 +54,7 @@
 	</tower_info>
 	<!-- game over text -->
 	<gameover>Fim de Jogo</gameover>
-	<gameover2>O Núcleo Foi Destruido</gameover2>
+	<gameover2>O Núcleo Foi Destruído</gameover2>
 	
 	<!-- tetriz text -->
 	<next_tetriz>Próximo Inimigo</next_tetriz>
