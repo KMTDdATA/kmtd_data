@@ -1,0 +1,81 @@
+<texts>
+	<current_koins_text>Koins: </current_koins_text>
+	<curent_wave_text>Onda: </curent_wave_text>
+	
+	
+	
+	<!-- tower names and info [shop] -->
+	<name name_id = 'vegetinho'>Vegetinho</name>
+	<info name_id = 'vegetinho'>Mosaic</info>
+	
+	<name name_id = 'silkhorn'>Silkhorn</name>
+	<info name_id = 'silkhorn'>Torre que atiram projetos que vão e voltam</info>
+	
+	<name name_id = 'bombirdo'>Bombirdo</name>
+	<info name_id = 'bombirdo'>Bombirdos são torres voadoras nas quais atingem inimigos aéreos</info>
+	
+	<name name_id = 'vissca'>Vissca</name>
+	<info name_id = 'vissca'>Vissca é uma torre na qual cospe slime no chão no qual faz com que inimigos terrestres fiquem lentos por alguns segundos</info>
+	
+	<!-- tower status -->
+	<status_rotate>graus</status_rotate>
+	<!-- ground towers -->
+	<tower_info id='vegetinho'>
+		<anim_status id='0'>damage</anim_status>
+		<anim_status id='1'>attack_speed</anim_status>
+		<anim_status id='2'>rotate_speed</anim_status>
+		<anim_status id='3'>bullet_speed</anim_status>
+		<anim_status id='4'>range</anim_status>
+
+	</tower_info>
+	<tower_info id='silkhorn'>
+		<anim_status id='0'>damage</anim_status>
+		<anim_status id='1'>rotate_speed</anim_status>
+		<anim_status id='2'>bullet_speed</anim_status>
+		<anim_status id='3'>range</anim_status>
+		<anim_status id='4'>none</anim_status>
+
+	</tower_info>
+	<tower_info id='bombirdo'>
+		<anim_status id='0'>damage</anim_status>
+		<anim_status id='1'>attack_speed</anim_status>
+		<anim_status id='2'>rotate_speed</anim_status>
+		<anim_status id='3'>bullet_speed</anim_status>
+		<anim_status id='4'>range</anim_status>
+
+	</tower_info>
+	
+	<tower_info id='vissca'>
+		<anim_status id='0'>none</anim_status>
+		<anim_status id='1'>attack_speed</anim_status>
+		<anim_status id='2'>rotate_speed</anim_status>
+		<anim_status id='3'>bullet_speed</anim_status>
+		<anim_status id='4'>range</anim_status>
+		
+	</tower_info>
+	<!-- game over text -->
+	<gameover>Fim de Jogo</gameover>
+	<gameover2>O Núcleo Foi Destruido</gameover2>
+	
+	<!-- tetriz text -->
+	<next_tetriz>Próximo Inimigo</next_tetriz>
+	
+	<!-- pause text -->
+	<pause>Pausado...₢</pause>
+	
+	<!--warn texts-->
+	<warn_last_wave>O jogo acabará automaticamente após todos inimigos serem derrotados</warn_last_wave>
+	<!--title screen-->
+	<presskey_text>APERTE QUALQUER TECLA PARA COMEÇAR</presskey_text>
+	
+	<!--goals-->
+	<goals>
+	  <goal_build_towers>Construa -tower_count- torres</goal_build_towers>
+	  <goal_max_towers>Não untrapasse o limite de -tower_limit- de torres</goal_max_towers>
+	  <goal_kill_enemies>Mate -kills- inimigos</goal_kill_enemies>
+	  <goal_get_koins>Consiga -koins- koins</goal_get_koins>
+	  <goal_spare_koins>Poupe -koins_goal-</goal_spare_koins>
+	  <goal_reach_wave>Sobreviva até a onda -wave-</goal_reach_wave>
+	  <goal_deal_damage>Dê -damage- dano</goal_deal_damage>
+	</goals>
+</texts>
