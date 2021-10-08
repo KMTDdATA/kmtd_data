@@ -80,6 +80,6 @@
 	  <goal_deal_damage>Dê -damage- dano</goal_deal_damage>
 	</goals>
 	<goal_level>
-		<lvl name='Test - 1'>build_towers,25/kill_enemies,500/collect_koins,740</lvl>
+		<lvl name='Test - 1'>build_towers,25/kill_enemies,500/collect_koins,750</lvl>
 	</goal_level>
 </texts>
