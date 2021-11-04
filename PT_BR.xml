@@ -64,11 +64,14 @@
 	
 	<!--warn texts-->
 	<warn_last_wave>O jogo acabará automaticamente após todos inimigos serem derrotados</warn_last_wave>
+
 	<!--title screen-->
 	<presskey_text>APERTE QUALQUER TECLA PARA COMEÇAR</presskey_text>
+
 	<!--vitory-->
 	<victory_congrats>Você Defendeu o Núceleo!!!</victory_congrats>
 	<victory_rubits>Rubitas Ganhas: </victory_rubits>
+
 	<!--goals-->
 	<goals>
 	  <goal_build_towers>Construa -tower_count- torres</goal_build_towers>
@@ -82,4 +85,8 @@
 	<goal_level>
 		<lvl name='Test - 1'>build_towers,25/kill_enemies,500/collect_koins,750</lvl>
 	</goal_level>
+
+	<!--inv sections-->
+	<inv_towers>Torres</inv_towers>
+	<inv_itens>Itens</inv_itens>
 </texts>
