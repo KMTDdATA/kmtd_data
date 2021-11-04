@@ -1,1 +1,4 @@
-
+<stats>
+  <tower id='0' type='vegetinho' elements='plant,none,none' cost='16'>
+  <tower id='1' type='bombirdo' elements='air,fire,none' cost='12'>
+</stats>
